@@ -7,10 +7,10 @@
  -----------------
 
 ## 📚Les langages que je connais :
-C++/C++ moderne<br>
-C<br>
-HTML<br>
-CSS<br>
-SQL<br>
+* C++/C++ moderne<br>
+* C<br>
+* HTML<br>
+* CSS<br>
+* SQL<br>
 
 -----------------
