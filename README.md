@@ -18,6 +18,6 @@
 
 [C++](https://github.com/Kuai-sama?tab=repositories&q=&type=&language=c%2B%2B)
 
-[HTML](https://github.com/Kuai-sama?tab=repositories&q=&type=&language=c%2B%2B)
+[HTML](https://github.com/Kuai-sama?tab=repositories&q=&type=&language=html)
 
-[CSS](https://github.com/Kuai-sama?tab=repositories&q=&type=&language=c%2B%2B)
+[CSS](https://github.com/Kuai-sama?tab=repositories&q=&type=&language=css)
