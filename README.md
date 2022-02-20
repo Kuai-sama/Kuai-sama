@@ -1,4 +1,4 @@
-<div align="center"> <h1>MON GIT-HUB</h1></div>
+<div align="center"> <h1>My github</h1></div>
 
 -----------------
 
@@ -6,18 +6,21 @@
  
  -----------------
 
-## 📚Les langages que je connais :
-* C++/C++ moderne<br>
+## 📚 The languages that I use :
+* C++/ modern C++<br>
 * C<br>
+* Java<br>
 * HTML<br>
 * CSS<br>
 * SQL<br>
-
+* 
 -----------------
-# Tous mes projets
+# All my projets
 
 [C++](https://github.com/Kuai-sama?tab=repositories&q=&type=&language=c%2B%2B)
 
 [HTML](https://github.com/Kuai-sama?tab=repositories&q=&type=&language=html)
 
 [CSS](https://github.com/Kuai-sama?tab=repositories&q=&type=&language=css)
+
+[JAVA](https://github.com/Kuai-sama?tab=repositories&q=&type=&language=java)
