@@ -1,5 +1,5 @@
 -----------------
-# <center> Hi 👋, I'm Kuaï </center>
+<h1 align="center">Hi 👋, I'm Kuaï</h1>
 -----------------
 
 ![gif](https://wallpaperaccess.com/full/2471303.gif)
